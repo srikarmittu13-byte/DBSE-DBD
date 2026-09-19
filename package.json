@@ -1,0 +1,10 @@
+{
+  "name": "edtech-student-app",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix EdTech-Student-App/frontend run dev",
+    "frontend": "npm --prefix EdTech-Student-App/frontend run dev",
+    "backend": "npm --prefix EdTech-Student-App/backend run dev",
+    "build": "npm --prefix EdTech-Student-App/frontend run build"
+  }
+}
